@@ -36,6 +36,32 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.6
 
+  # DataBase
+  hive: ^2.0.4
+  hive_flutter: ^1.1.0
+
+  # Provides internationalization and locatization facilities 
+  intl: ^0.17.6
+
+  # Animation
+  animate_do: ^2.1.0
+
+  # Dialogs
+  panara_dialogs: ^0.1.2
+
+  # Animations exported as json
+  lottie: ^1.4.0
+
+  # Toast
+  ftoast: ^2.0.0
+
+  # Slider
+  flutter_slider_drawer: ^2.1.1
+
+  # Date Picker
+  flutter_cuppertino_date_picker_fork: ^1.0.7
+
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
